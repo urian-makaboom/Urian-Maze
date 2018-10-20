@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "188c27f8-3ce4-4a1c-a8ef-6d2514807345",
+            "Value": {
+                "id": "0a9c40eb-fcd2-4ea7-9677-f8eba17bb113",
+                "resourcePath": "sprites\\Traffic_Light_Green\\Traffic_Light_Green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "18bce5b6-88f0-4692-89b1-f7f17751c92e",
+            "Value": {
+                "id": "d2521c85-2186-4264-8499-1e9c47acacb3",
+                "resourcePath": "objects\\OTraffic_Light_Green\\OTraffic_Light_Green.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ac82c99-4ce2-442e-bd8b-9059260592c8",
             "Value": {
                 "id": "bddfdc71-89d1-4b9c-9d04-1d50ce326dc2",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "b4c887eb-d8e1-4b8f-9268-09ebb1184dfc",
+            "Value": {
+                "id": "27726cc8-2446-445b-9308-cba0aeda6ad1",
+                "resourcePath": "sprites\\Traffic_Light_Red\\Traffic_Light_Red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b90d29f1-4f71-4ca2-9ec3-a772697303c3",
             "Value": {
                 "id": "1b97f39a-4c40-4bb4-b50f-ca16d1c51884",
@@ -211,6 +235,14 @@
             "Value": {
                 "id": "dd53b920-278d-49e9-a272-59ca3e53d9f2",
                 "resourcePath": "objects\\ONintendo_Switch\\ONintendo_Switch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e41c8567-13e6-4008-bce5-22c93f86a134",
+            "Value": {
+                "id": "94e5c517-e3d6-402e-8f96-342fe3d7422e",
+                "resourcePath": "objects\\OTraffic_Light_Red\\OTraffic_Light_Red.yy",
                 "resourceType": "GMObject"
             }
         },
