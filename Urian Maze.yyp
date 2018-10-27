@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "90ef27bb-90b1-4232-9d35-99440723c3bd",
+            "Value": {
+                "id": "3d5630e6-054e-4aa9-9903-2b0b5b2e61dc",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "999b7902-67e7-4985-9ce6-d168306c3896",
             "Value": {
                 "id": "e51953fc-4f99-4313-897a-42c0516476f1",
@@ -215,6 +223,22 @@
             }
         },
         {
+            "Key": "ce9bffe9-1475-4b37-972e-ffe6fb5fd037",
+            "Value": {
+                "id": "f9eb0804-6da3-4bef-8b50-3b22074d7b34",
+                "resourcePath": "sprites\\Gold_Star_Coin\\Gold_Star_Coin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cf8f1378-4d30-45a8-ae98-6887c1757086",
+            "Value": {
+                "id": "8395f9d3-0d01-44ba-b9f0-7f3169de2a28",
+                "resourcePath": "sprites\\Stick_Figure_Animation\\Stick_Figure_Animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d1af28eb-eb14-4eeb-8d1b-51f4d83ef691",
             "Value": {
                 "id": "936facf4-e4e7-40c8-b763-474fc36203ca",
@@ -251,6 +275,22 @@
             "Value": {
                 "id": "ab615ea7-a3ec-4f22-8f44-cfc6caf8caa7",
                 "resourcePath": "objects\\OTImer\\OTImer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f190080a-b276-4dec-a746-12c7628deb74",
+            "Value": {
+                "id": "9f050f7c-f9fe-4a9b-9c85-8f381cf26da7",
+                "resourcePath": "objects\\OStick_Figure_Animation\\OStick_Figure_Animation.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f426ec10-9273-4495-b00f-0330faf8b9dc",
+            "Value": {
+                "id": "b6700ed8-b891-4892-bcf3-a12d96e567e0",
+                "resourcePath": "objects\\OGold_Star_Coin\\OGold_Star_Coin.yy",
                 "resourceType": "GMObject"
             }
         },
